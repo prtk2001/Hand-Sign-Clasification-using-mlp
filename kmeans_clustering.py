@@ -13,8 +13,7 @@ from rotate import normalise, rotate_3d, subtract_offset
 n_PCA = 63
 n_Kmeans = 6
 
-file = "Basic words - Auslan"
-# file = "Auslan COVID-19 Update - 29 Jan 2021"
+file = "Basic words "
 # file = "WIN_20210418_10_11_51_Pro"
 # file = "WIN_20210422_17_16_38_Pro"
 
