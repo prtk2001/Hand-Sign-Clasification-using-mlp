@@ -12,8 +12,7 @@ n_PCA = 15
 n_Kmeans = 10
 d = '2d'
 
-# file = "Basic words - Auslan"
-# file = "Auslan COVID-19 Update - 29 Jan 2021"
+# file = "Basic words "
 # file = "WIN_20210418_10_11_51_Pro"
 file = "WIN_20210422_17_16_38_Pro"
 
