@@ -7,8 +7,7 @@ from alive_progress import alive_bar
 from rotate import rotate_3d
 
 # For webcam input:
-file = "Basic words - Auslan"
-# file = "Auslan COVID-19 Update - 29 Jan 2021"
+file = "Basic words "
 # file = "WIN_20210418_10_11_51_Pro"
 # file = "WIN_20210422_17_16_38_Pro"
 
